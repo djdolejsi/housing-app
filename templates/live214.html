@@ -2,9 +2,14 @@
 
 <html lang="en">
 <head>
-<title>Page Title</title>
+<title>Housing App Home</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/73215882ea.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -12,6 +17,48 @@ body {
 </style>
 </head>
 <body>
+
+  <div class="navigation">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="col-sm-12 col-md-2">
+            <a class="navbar-brand" style="background-color:silver;" href="index.html">Housing App</a>
+            <button class="navbar-toggler border border-black " type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+        <div class="col-sm-12 col-md-8"></div>
+        <div class="col-sm-12 col-md-2">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Buying
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Allen</a>
+                            <a class="dropdown-item" href="#">Dallas</a>
+                            <a class="dropdown-item" href="#">Frisco</a>
+                            <a class="dropdown-item" href="#">Garland</a>
+                            <a class="dropdown-item" href="#">Plano</a> 
+                            <a class="dropdown-item" href="#">Richardson</a>     
+                        </div>
+                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Renting
+                          </a>
+                          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                              <a class="dropdown-item" href="#">Allen</a>
+                              <a class="dropdown-item" href="#">Dallas</a>
+                              <a class="dropdown-item" href="#">Frisco</a>
+                              <a class="dropdown-item" href="#">Garland</a>
+                              <a class="dropdown-item" href="#">Plano</a> 
+                              <a class="dropdown-item" href="#">Richardson</a>     
+                          </div>
+                </ul>
+            </div>  
+        </div>
+    </nav>
+</div>
 
 <h1>Live 214</h1>
 <p>A look into the Dallas, Texas housing market.</p>
@@ -22,7 +69,7 @@ body {
 <!-- Header_Buying -->
 
 <div class="header">
-    <h1>Buying</h1>
+  <i class="fa-solid fa-house-user"></i><h1>Buying</h1>
 <div class="navbar">
     <a href="#">Housing Prices</a>
   </div>
@@ -30,18 +77,10 @@ body {
 <!-- Header_Renting -->
 
 <div class="header">
-    <h1>Renting</h1>
+  <i class="fa-solid fa-building-user"></i><h1>Renting</h1>
 <div class="navbar">
     <a href="#">Rental Prices</a>
   </div>
-
-<!-- Image -->
-
-<img src="C:\Users\dillo\Data Science Bootcamp\git_repos\housing-app\templates\dallas.png" width="200" height="100">
-
-
-
-
 
 <!-- CSS Internal Styling -->
 
@@ -61,6 +100,23 @@ h1 {
   text-align: center;
   
 }
+
+.navbar{
+
+max-height: 50px;
+background-color: navy;
+}
+
+.navigation .navbar-brand{
+
+color: silver;
+margin-left: 30px;
+padding: 15px;
+font-weight: bold;
+background-color: silver;
+font-family: Arial, Helvetica, sans-serif;
+}
+
 </style>
 </head>
 <body>
