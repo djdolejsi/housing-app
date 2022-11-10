@@ -27,7 +27,7 @@ db = SQLAlchemy(app)
 # create route that renders index.html template
 @app.route("/")
 def welcome():
-    return("Welcome to this page")
+    return render_template("live214.html")
 
 
 # Query the database and send the jsonified results
