@@ -62,7 +62,9 @@ def welcome():
 def buy():
     return render_template("pricechart.html")
 
-# @app.route("")
+@app.route("/rent")
+def rent():
+    return render_template("rentchart.html")
 
 
 if __name__ == "__main__":
