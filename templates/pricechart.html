@@ -8,7 +8,77 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
+    <!--Navigation Bar-->
+    <div class="navigation">
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" style="background-color:silver;" href="/">Housing App</a>
+            <button class="navbar-toggler border border-black " type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Buying
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Allen</a>
+                            <a class="dropdown-item" href="#">Dallas</a>
+                            <a class="dropdown-item" href="#">Frisco</a>
+                            <a class="dropdown-item" href="#">Garland</a>
+                            <a class="dropdown-item" href="#">Plano</a> 
+                            <a class="dropdown-item" href="#">Richardson</a>     
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Renting
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Allen</a>
+                            <a class="dropdown-item" href="#">Dallas</a>
+                            <a class="dropdown-item" href="#">Frisco</a>
+                            <a class="dropdown-item" href="#">Garland</a>
+                            <a class="dropdown-item" href="#">Plano</a> 
+                            <a class="dropdown-item" href="#">Richardson</a>     
+                        </div>
+                    </li>  
+                </ul>
+            </div>  
+        </nav>
+    </div>
     <div id="plot"></div>
-    <script src="buyprices.js"></script>
+    <script>
+
+        let trace1 = {
+        x: ['Allen', 'Dallas', 'Frisco', 'Garland', 'Plano'],
+        y: [525565, 751442, 745592, 375569, 638426],
+        name: 'DFW Average List Price by City', 
+        marker: {
+            color: 'rgb(49,130,189)',
+            opacity: 0.7},
+        type: 'bar'
+        };
+
+        let trace2 = {
+        x: ['Allen', 'Dallas', 'Frisco', 'Garland', 'Plano'],
+        y: [539000, 460000, 640000, 330000, 529000],
+        name: 'Median List Price as of October 2022',
+        marker: {
+            color: 'rgb(204,204,204)',
+            opacity: 0.5},
+        type: 'bar'
+        };
+
+        let data = [trace1, trace2];
+
+        let layout = {title:'Current List Price Comparison', 
+        barmode: 'group'};
+
+        Plotly.newPlot('plot', data, layout, {scrollzoom:true});
+
+    </script>
+    <!--<script src="buyprices.js"></script>-->
 </body>
 </html>
