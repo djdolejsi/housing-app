@@ -1,73 +1,73 @@
-Address,Price,Number of Bedrooms,Number of Bathrooms,Square Feet
-"1314 Wendell Way, Garland, TX 75043","
-                $369,900
-            ",4 Beds,3 Baths,"2,498 SqFt"
-"322 Saddlebrook Drive, Garland, TX 75044","
-                $465,000
-            ",3 Beds,2 Baths,"2,020 SqFt"
-"1014 Seminary Ridge, Garland, TX 75043","
-                $388,000
-            ",3 Beds,2 Baths,"2,292 SqFt"
-"3213 Cross Timbers Lane, Garland, TX 75044","
-                $578,000
-            ",4 Beds,3 Baths,"2,667 SqFt"
-"601 Colonial Drive, Garland, TX 75043","
-                $325,000
-            ",4 Beds,2 Baths,"1,915 SqFt"
-"3210 Kingswood Drive, Garland, TX 75040","
-                $360,000
-            ",3 Beds,2 Baths,"1,917 SqFt"
-"2113 Lansdowne Drive, Garland, TX 75040","
-                $449,800
-            ",3 Beds,3 Baths,"1,719 SqFt"
-"5406 Sundown Lane, Garland, TX 75043","
-                $314,999
-            ",3 Beds,2 Baths,"1,568 SqFt"
-"4206 Lauren Lane, Garland, TX 75043","
-                $624,900
-            ",4 Beds,4 Baths,"4,223 SqFt"
-"1321 Linden Lane, Garland, TX 75040","
-                $325,000
-            ",3 Beds,2 Baths,"1,737 SqFt"
-"1909 Wyndemere Lane, Garland, TX 75042","
-                $235,000
-            ",2 Beds,2 Baths,"1,290 SqFt"
-"1710 Running River Road, Garland, TX 75044","
-                $305,000
-            ",4 Beds,3 Baths,"1,277 SqFt"
-"2817 Meadow Park Drive, Garland, TX 75040","
-                $380,000
-            ",4 Beds,2 Baths,"1,716 SqFt"
-"3910 Mayflower Drive, Garland, TX 75043","
-                $275,000
-            ",3 Beds,2 Baths,"1,519 SqFt"
-"3510 University Drive, Garland, TX 75043","
-                $390,000
-            ",4 Beds,3 Baths,"2,566 SqFt"
-"5202 Fairway Lakes Court, Garland, TX 75044","
-                $565,000
-            ",5 Beds,4 Baths,"3,379 SqFt"
-"2105 Tiehack Lane, Garland, TX 75044","
-                $330,000
-            ",3 Beds,2 Baths,"1,424 SqFt"
-"1717 E Oates Road, Garland, TX 75043","
-                $664,999
-            ",5 Beds,5 Baths,"3,682 SqFt"
-"1404 Iroquois Drive, Garland, TX 75043","
-                $384,900
-            ",4 Beds,3 Baths,"2,225 SqFt"
-"1857 Mcclary Street, Garland, TX 75040","
-                $619,000
-            ",4 Beds,4 Baths,"3,507 SqFt"
-"3017 Club Country Drive, Garland, TX 75043","
-                $385,000
-            ",3 Beds,3 Baths,"2,085 SqFt"
-"3410 Morning Star Lane, Garland, TX 75043","
+Address,Price,Number of Bedrooms,Number of Bathrooms,Square Feet,loc,point
+"2301 Tamarisk Lane, Plano, TX 75023","
+                $615,000
+            ",4 Beds,3 Baths,"2,677 SqFt",,
+"4501 Salerno Circle, Plano, TX 75093","
+                $850,000
+            ",4 Beds,5 Baths,"3,842 SqFt","4501, Salerno Circle, Plano, Collin County, Texas, 75093, United States","(33.054166, -96.782405, 0.0)"
+"1209 Quaint Drive, Plano, TX 75094","
+                $868,000
+            ",4 Beds,4 Baths,"3,251 SqFt","Quaint Drive, Plano, Collin County, Texas, 75094, United States","(33.009433, -96.6294082, 0.0)"
+"5000 Latham Drive, Plano, TX 75023","
+                $375,000
+            ",3 Beds,2 Baths,"1,941 SqFt","5000, Latham Drive, Plano, Collin County, Texas, 75023, United States","(33.05317600253166, -96.71927009539301, 0.0)"
+"7305 Royal Crest Lane, Plano, TX 75025","
+                $629,999
+            ",4 Beds,4 Baths,"3,145 SqFt","7305, Royal Crest Lane, Plano, Collin County, Texas, 75025, United States","(33.07481585201784, -96.72785459273378, 0.0)"
+"3052 Galveston Street, Plano, TX 75075","
+                $460,000
+            ",3 Beds,3 Baths,"1,867 SqFt",,
+"2705 Fall Dale Circle, Plano, TX 75075","
+                $427,000
+            ",4 Beds,2 Baths,"1,854 SqFt","2705, Fall Dale Circle, Plano, Collin County, Texas, 75075, United States","(33.03771767183581, -96.74512670157122, 0.0)"
+"3220 Mason Drive, Plano, TX 75025","
+                $1,049,999
+            ",5 Beds,4 Baths,"4,444 SqFt","3220, Mason Drive, Plano, Collin County, Texas, 75025, United States","(33.10342955448988, -96.7541541623922, 0.0)"
+"2101 Trellis Lane, Plano, TX 75075","
+                $575,000
+            ",4 Beds,3 Baths,"2,483 SqFt","2101, Trellis Lane, Plano, Collin County, Texas, 75075, United States","(33.027468, -96.766637, 0.0)"
+"3601 Plymouth Drive, Plano, TX 75023","
+                $599,000
+            ",4 Beds,3 Baths,"2,726 SqFt","3601, Plymouth Drive, Plano, Collin County, Texas, 75023, United States","(33.046872, -96.769824, 0.0)"
+"2620 Wheeler Bend, Plano, TX 75025","
+                $680,000
+            ",5 Beds,4 Baths,"3,596 SqFt","2620, Wheeler Bend, Plano, Collin County, Texas, 75025, United States","(33.097651372093026, -96.74393118604651, 0.0)"
+"4509 Lancelot Drive, Plano, TX 75024","
+                $725,000
+            ",4 Beds,4 Baths,"3,977 SqFt","4509, Lancelot Drive, Plano, Collin County, Texas, 75024, United States","(33.0769498647649, -96.78034383714783, 0.0)"
+"3800 Kite Meadow Drive, Plano, TX 75074","
+                $650,000
+            ",5 Beds,4 Baths,"3,967 SqFt","3800, Kite Meadow Drive, Plano, Collin County, Texas, 75074, United States","(33.046395, -96.65713, 0.0)"
+"9832 Sota Grande Drive, Plano, TX 75025","
+                $725,000
+            ",4 Beds,3 Baths,"3,421 SqFt","9832, Sota Grande Drive, Plano, Collin County, Texas, 75025, United States","(33.11267435836484, -96.73709227443005, 0.0)"
+"2213 Vickers Drive, Plano, TX 75075","
+                $474,900
+            ",4 Beds,2 Baths,"2,039 SqFt","2213, Vickers Drive, Plano, Collin County, Texas, 75075, United States","(33.03869922448979, -96.73687563265307, 0.0)"
+"4140 Kite Meadow Drive, Plano, TX 75074","
+                $550,000
+            ",3 Beds,3 Baths,"2,618 SqFt","4140, Kite Meadow Drive, Plano, Collin County, Texas, 75074, United States","(33.04602639538465, -96.64656027773043, 0.0)"
+"7862 Element Avenue, Plano, TX 75024","
+                $1,050,000
+            ",4 Beds,4 Baths,"2,841 SqFt",,
+"1217 Gannon Drive, Plano, TX 75025","
                 $395,000
-            ",3 Beds,3 Baths,"2,073 SqFt"
-"314 Ridgegate Drive, Garland, TX 75040","
-                $388,000
-            ",3 Beds,2 Baths,"1,636 SqFt"
-"2205 Harvest Run, Garland, TX 75040","
-                $539,000
-            ",4 Beds,4 Baths,"3,384 SqFt"
+            ",3 Beds,2 Baths,"1,846 SqFt","1217, Gannon Drive, Plano, Collin County, Texas, 75025, United States","(33.08063717544859, -96.71417112266164, 0.0)"
+"504 Carmack Drive, Plano, TX 75075","
+                $510,000
+            ",3 Beds,3 Baths,"1,800 SqFt",,
+"3513 Twin Lakes Way, Plano, TX 75093","
+                $2,699,500
+            ",5 Beds,7 Baths,"8,138 SqFt","3513, Twin Lakes Way, Plano, Collin County, Texas, 75093, United States","(33.045179063290405, -96.80189992029328, 0.0)"
+"2804 Oates Drive, Plano, TX 75093","
+                $655,000
+            ",3 Beds,3 Baths,"2,636 SqFt","2804, Oates Drive, Plano, Collin County, Texas, 75093, United States","(33.036887821144624, -96.78319811361995, 0.0)"
+"5913 Sandhills Circle, Plano, TX 75093","
+                $839,500
+            ",5 Beds,4 Baths,"3,500 SqFt","5913, Sandhills Circle, Plano, Collin County, Texas, 75093, United States","(33.048672999999994, -96.8240954, 0.0)"
+"3216 Brewton Drive, Plano, TX 75074","
+                $518,000
+            ",4 Beds,3 Baths,"2,764 SqFt","3216, Brewton Drive, Plano, Collin County, Texas, 75074, United States","(33.06962029398478, -96.66967499774118, 0.0)"
+"4308 Cornell Drive, Plano, TX 75093","
+                $420,000
+            ",4 Beds,2 Baths,"2,189 SqFt","4308, Cornell Drive, Highlands North #5, Plano, Collin County, Texas, 75093, United States","(33.021295510204084, -96.77786485714286, 0.0)"

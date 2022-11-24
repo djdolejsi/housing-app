@@ -1,62 +1,73 @@
-Address,Price,Number of Bedrooms,Number of Bathrooms,Square Feet
-"1056 Enchanted Rock Drive, Allen, TX 75013","$575,000 ",4 Beds,3 Baths,"2, 434 SqFt"
-"1421 Greenwich Drive, Allen, TX 75013","$525,000 ",4 Beds,2 Baths,"2, 299 SqFt"
-"1045 Bandelier Drive, Allen, TX 75013","$918,000 ",5 Beds,4 Baths,"4, 162 SqFt"
-"1613 Ponderosa Drive, Allen, TX 75002","$685,000 ",4 Beds,4 Baths,"3, 105 SqFt"
-"1027 Lucy Lane, Allen, TX 75013","$450,000 ",3 Beds,3 Baths,"1, 955 SqFt"
-"2014 Barley Place Drive, Allen, TX 75013","$815,000
-",4 Beds,4 Baths,"3, 583 SqFt"
-"602 Huntington Lane, Allen, TX 75002","
-                $469,500
-            ",4 Beds,2 Baths,"1, 940 SqFt"
+Address,Price,Number of Bedrooms,Number of Bathrooms,Square Feet,loc,point
+"1635 Lakeside Drive, Allen, TX 75002","
+                $425,000
+            ",['3 Beds'],['2 Baths'],"['1', '499 SqFt']","1635, Lakeside Drive, Allen, Collin County, Texas, 75002, United States","(33.127024649999996, -96.62958516377714, 0.0)"
 "728 Fawn Valley Drive, Allen, TX 75002","
-                $450,000
-            ",4 Beds,3 Baths,"2, 612 SqFt"
-"315 Phoebe Drive, Allen, TX 75013","
-                $419,000
-            ",3 Beds,3 Baths,"1, 753 SqFt"
-"522 Willow Oak Street, Allen, TX 75002","
-                $315,000
-            ",3 Beds,2 Baths,"1, 512 SqFt"
-"1109 High Meadow Drive, Allen, TX 75002","
-                $369,500
-            ",3 Beds,2 Baths,"1, 404 SqFt"
-"1704 Pebble Run Drive, Allen, TX 75002","
-                $629,000
-            ",4 Beds,3 Baths,"2, 929 SqFt"
-"1807 Olympia Drive, Allen, TX 75002","
-                $599,999
-            ",5 Beds,3 Baths,"3, 761 SqFt"
+                $439,900
+            ",['4 Beds'],['3 Baths'],"['2', '612 SqFt']","728, Fawn Valley Drive, Allen, Collin County, Texas, 75002, United States","(33.08754920836843, -96.66225524592741, 0.0)"
+"1710 Clarke Springs Drive, Allen, TX 75002","
+                $575,000
+            ",['5 Beds'],['3 Baths'],"['3', '346 SqFt']","1710, Clarke Springs Drive, Auburn Springs, Allen, Collin County, Texas, 75002, United States","(33.10367255, -96.62354027419086, 0.0)"
+"1502 N Crossing Drive, Allen, TX 75002","
+                $710,000
+            ",['5 Beds'],['4 Baths'],"['3', '606 SqFt']","1502, North Crossing Drive, Beacon Hill, Allen, Collin County, Texas, 75013, United States","(33.10709102040816, -96.70582489795919, 0.0)"
+"806 Lake Highlands Drive, Allen, TX 75002","
+                $399,999
+            ",['5 Beds'],['3 Baths'],"['2', '945 SqFt']","806, Lake Highlands Drive, Fountain Park, Allen, Collin County, Texas, 75002, United States","(33.10848885, -96.65099068030241, 0.0)"
 "1507 Winterbrook Court, Allen, TX 75002","
-                $799,900
-            ",5 Beds,4 Baths,"4, 070 SqFt"
+                $785,000
+            ",['5 Beds'],['4 Baths'],"['4', '070 SqFt']","1507, Winterbrook Court, Allen, Collin County, Texas, 75002, United States","(33.1214438, -96.61179619508836, 0.0)"
 "1433 Glendover Drive, Allen, TX 75013","
-                $525,000
-            ",4 Beds,3 Baths,"2, 499 SqFt"
-"900 Kingsbury Court, Allen, TX 75013","
-                $989,900
-            ",5 Beds,5 Baths,"4, 438 SqFt"
-"1105 Ferndale Drive, Allen, TX 75013","
-                $619,000
-            ",4 Beds,4 Baths,"2, 457 SqFt"
-"716 Roaming Road Drive, Allen, TX 75002","
-                $365,000
-            ",3 Beds,2 Baths,"1, 430 SqFt"
+                $514,000
+            ",['4 Beds'],['3 Baths'],"['2', '499 SqFt']","1433, Glendover Drive, Glendover Park, Allen, Collin County, Texas, 75013, United States","(33.1204466, -96.7067572464255, 0.0)"
 "1322 Crestview Drive, Allen, TX 75002","
                 $343,000
-            ",3 Beds,2 Baths,"1, 404 SqFt"
-"1816 San Leanna Drive, Allen, TX 75013","
-                $740,000
-            ",4 Beds,5 Baths,"3, 785 SqFt"
-"1001 Roaring Springs Drive, Allen, TX 75002","
-                $332,000
-            ",4 Beds,2 Baths,"1, 439 SqFt"
-"609 White Oak Street, Allen, TX 75002","
-                $400,000
-            ",4 Beds,3 Baths,"2, 163 SqFt"
-"1010 Burnet Drive, Allen, TX 75002","
-                $779,999
-            ",5 Beds,5 Baths,"3, 764 SqFt"
+            ",['3 Beds'],['2 Baths'],"['1', '404 SqFt']","1322, Crestview Drive, Allen, Collin County, Texas, 75002, United States","(33.10795775, -96.63832180109515, 0.0)"
+"1807 Baltimore Drive, Allen, TX 75002","
+                $775,000
+            ",['4 Beds'],['4 Baths'],"['3', '568 SqFt']","1807, Baltimore Drive, Allen, Collin County, Texas, 75002, United States","(33.125284050000005, -96.6209924708086, 0.0)"
 "1905 Rising Star Drive, Allen, TX 75013","
                 $799,000
-            ",4 Beds,4 Baths,"4, 124 SqFt"
+            ",['4 Beds'],['4 Baths'],"['4', '124 SqFt']","1905, Rising Star Drive, Allen, Collin County, Texas, 75013, United States","(33.1125151158645, -96.72657505258043, 0.0)"
+"918 Blackstone Drive, Allen, TX 75002","
+                $578,000
+            ",['5 Beds'],['4 Baths'],"['3', '370 SqFt']","918, Blackstone Drive, Allen, Collin County, Texas, 75002, United States","(33.082872755389246, -96.65921832859719, 0.0)"
+"1002 Pin Oak Lane, Allen, TX 75002","
+                $409,000
+            ",['4 Beds'],['2 Baths'],"['2', '274 SqFt']","1002, Pin Oak Lane, Oak Ridge, Allen, Collin County, Texas, 75002, United States","(33.11333285, -96.63198593974423, 0.0)"
+"822 Weeping Willow Court, Allen, TX 75002","
+                $409,000
+            ",['3 Beds'],['2 Baths'],"['1', '825 SqFt']","822, Weeping Willow Court, Allen, Collin County, Texas, 75002, United States","(33.07767812244898, -96.6594033877551, 0.0)"
+"912 Fairlawn Street, Allen, TX 75002","
+                $396,000
+            ",['4 Beds'],['2 Baths'],"['1', '836 SqFt']","912, Fairlawn Street, Allen, Collin County, Texas, 75002, United States","(33.08253257040929, -96.66389521361589, 0.0)"
+"1905 Bordeaux Court, Allen, TX 75002","
+                $899,990
+            ",['6 Beds'],['5 Baths'],"['5', '008 SqFt']","1905, Bordeaux Court, Allen, Collin County, Texas, 75002, United States","(33.12777145, -96.61959012774437, 0.0)"
+"1968 Sweetwater Lane, Allen, TX 75013","
+                $519,990
+            ",['3 Beds'],['3 Baths'],"['1', '971 SqFt']","Sweetwater Lane, Cottonwood Creek, Allen, Collin County, Texas, 75013, United States","(33.1299473, -96.6679201, 0.0)"
+"1960 Sweetwater Lane, Allen, TX 75013","
+                $519,990
+            ",['3 Beds'],['3 Baths'],"['1', '971 SqFt']","Sweetwater Lane, Cottonwood Creek, Allen, Collin County, Texas, 75013, United States","(33.1299473, -96.6679201, 0.0)"
+"810 Shallowater Drive, Allen, TX 75013","
+                $1,000,000
+            ",['4 Beds'],['5 Baths'],"['4', '439 SqFt']","810, Shallowater Drive, Allen, Collin County, Texas, 75013, United States","(33.11168, -96.726852, 0.0)"
+"918 Green Brook Drive, Allen, TX 75002","
+                $460,000
+            ",['3 Beds'],['2 Baths'],"['2', '109 SqFt']","918, Green Brook Drive, Fountain Park, Allen, Collin County, Texas, 75002, United States","(33.104439884441355, -96.64873114073634, 0.0)"
+"904 Panther Lane, Allen, TX 75013","
+                $599,000
+            ",['4 Beds'],['3 Baths'],"['2', '829 SqFt']","904, Panther Lane, Quail Run, Cottonwood Creek, Allen, Collin County, Texas, 75013, United States","(33.124018750000005, -96.67381621658794, 0.0)"
+"706 S Jupiter Road #1303, Allen, TX 75002","
+                $340,000
+            ",['4 Beds'],['4 Baths'],"['1', '821 SqFt']",,
+"405 Woodlake Drive, Allen, TX 75013","
+                $3,395,000
+            ",['5 Beds'],['7 Baths'],"['8', '595 SqFt']","405, Woodlake Drive, Wimberley Place, Allen, Collin County, Texas, 75013, United States","(33.10560463836279, -96.72123131492312, 0.0)"
+"2038 Wimbledon Drive, Allen, TX 75013","
+                $439,000
+            ",['4 Beds'],['2 Baths'],"['2', '000 SqFt']","2038, Wimbledon Drive, Custer Hill Estates, Allen, Collin County, Texas, 75013, United States","(33.0896706082214, -96.73037751744842, 0.0)"
+"5 Valleycrest Court, Allen, TX 75002","
+                $425,000
+            ",['3 Beds'],['2 Baths'],"['2', '169 SqFt']","5, Valleycrest Court, Fountain Park, Allen, Collin County, Texas, 75002, United States","(33.109132849999995, -96.6428601906081, 0.0)"

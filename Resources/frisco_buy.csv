@@ -1,73 +1,73 @@
-Address,Price,Number of Bedrooms,Number of Bathrooms,Square Feet
-"6836 Livorno Lane, Frisco, TX 75034","
-                $450,000
-            ",2 Beds,3 Baths,"1,670 SqFt"
-"7981 Kings Ridge Road, Frisco, TX 75035","
-                $435,000
-            ",3 Beds,2 Baths,"1,904 SqFt"
-"2016 Crowbridge Drive, Frisco, TX 75033","
-                $725,000
-            ",4 Beds,4 Baths,"3,531 SqFt"
+Address,Price,Number of Bedrooms,Number of Bathrooms,Square Feet,loc,point
+"3311 Harvest Glen Drive, Frisco, TX 75034","
+                $1,099,990
+            ",4 Beds,4 Baths,"4,527 SqFt","3311, Harvest Glen Drive, Frisco, Denton County, Texas, 75034, United States","(33.10677676767676, -96.87379035353534, 0.0)"
+"12927 Ignatius Drive, Frisco, TX 75035","
+                $1,289,000
+            ",5 Beds,6 Baths,"4,617 SqFt","12927, Ignatius Drive, Richwoods, Frisco, Collin County, Texas, 75035, United States","(33.136920552237555, -96.76437668426817, 0.0)"
+"5208 Buena Vista Drive, Frisco, TX 75034","
+                $2,695,000
+            ",5 Beds,6 Baths,"6,954 SqFt","5208, Buena Vista Drive, Starwood, Frisco, Collin County, Texas, 75034, United States","(33.1215934, -96.8364488849779, 0.0)"
+"4251 Brittany Court, Frisco, TX 75034","
+                $1,375,000
+            ",5 Beds,5 Baths,"5,163 SqFt","4251, Brittany Court, The Lakes on Legacy Drive, Frisco, Denton County, Texas, 75034, United States","(33.114748, -96.84376432169812, 0.0)"
+"9805 Gristmill Lane, Frisco, TX 75035","
+                $899,995
+            ",4 Beds,4 Baths,"3,799 SqFt","9805, Gristmill Lane, Frisco, Collin County, Texas, 75035, United States","(33.107354448639626, -96.79750303188291, 0.0)"
 "2233 Beachfront Drive, Frisco, TX 75036","
                 $460,000
-            ",2 Beds,2 Baths,"1,700 SqFt"
-"5100 Lago Vista Lane, Frisco, TX 75034","
-                $1,299,000
-            ",5 Beds,5 Baths,"4,034 SqFt"
-"15751 Fox Meadow Lane, Frisco, TX 75035","
-                $735,000
-            ",4 Beds,3 Baths,"3,277 SqFt"
-"5709 Charleston Drive, Frisco, TX 75035","
-                $550,000
-            ",4 Beds,2 Baths,"2,027 SqFt"
-"1888 Prairie Creek Trail, Frisco, TX 75033","
-                $870,000
-            ",4 Beds,3 Baths,"3,757 SqFt"
-"6024 Norwood Drive, Frisco, TX 75034","
-                $1,425,000
-            ",5 Beds,5 Baths,"4,194 SqFt"
-"12003 Lante Circle, Frisco, TX 75033","
+            ",2 Beds,2 Baths,"1,700 SqFt","2233, Beachfront Drive, Frisco, Denton County, Texas, 75036, United States","(33.142186038443526, -96.91178127899498, 0.0)"
+"9322 Middle Ground Place, Frisco, TX 75035","
+                $915,000
+            ",5 Beds,4 Baths,"2,842 SqFt",,
+"6405 Silver Stream Lane, Frisco, TX 75036","
+                $1,525,000
+            ",5 Beds,7 Baths,"4,894 SqFt","6405, Silver Stream Lane, Sheridan at Phillips Creek Ranch, Frisco, Denton County, Texas, 75036, United States","(33.1320034, -96.88035493430098, 0.0)"
+"3384 Thistle Road, Frisco, TX 75035","
+                $875,990
+            ",5 Beds,4 Baths,"3,381 SqFt","3384, Thistle Road, Frisco, Collin County, Texas, 75035, United States","(33.10632497784301, -96.79355301664954, 0.0)"
+"9707 Derbyshire Drive, Frisco, TX 75035","
+                $799,990
+            ",4 Beds,4 Baths,"2,820 SqFt","9707, Derbyshire Drive, Frisco, Collin County, Texas, 75035, United States","(33.105772776456554, -96.79805676473147, 0.0)"
+"3473 Furrow Road, Frisco, TX 75035","
+                $899,990
+            ",5 Beds,4 Baths,"3,799 SqFt","3473, Furrow Road, Frisco, Collin County, Texas, 75035, United States","(33.10673564567108, -96.79446899548633, 0.0)"
+"5167 Burkett Drive, Frisco, TX 75034","
+                $2,200,000
+            ",5 Beds,6 Baths,"6,168 SqFt","5167, Burkett Drive, Starwood, Frisco, Collin County, Texas, 75034, United States","(33.1214249, -96.83829024454015, 0.0)"
+"15208 Christopher Lane, Frisco, TX 75035","
+                $995,000
+            ",4 Beds,6 Baths,"4,220 SqFt","15208, Christopher Lane, Frisco, Collin County, Texas, 75035, United States","(33.17047203406403, -96.74285804620702, 0.0)"
+"4801 Ray Roberts Drive, Frisco, TX 75036","
+                $529,000
+            ",4 Beds,4 Baths,"2,423 SqFt",,
+"7851 Armor Lane, Frisco, TX 75035","
+                $396,000
+            ",3 Beds,3 Baths,"1,736 SqFt","7851, Armor Lane, Frisco, Collin County, Texas, 75035, United States","(33.143946400000004, -96.785438, 0.0)"
+"1383 Royal Oaks Drive, Frisco, TX 75036","
+                $452,000
+            ",3 Beds,2 Baths,"1,876 SqFt","1383, Royal Oaks Drive, Watherford Falls, Frisco, Denton County, Texas, 75036, United States","(33.15172321738617, -96.88027352178042, 0.0)"
+"3409 Collingham Street, Frisco, TX 75036","
+                $440,000
+            ",3 Beds,2 Baths,"1,862 SqFt",,
+"9712 Preston Vineyard Drive, Frisco, TX 75035","
+                $423,000
+            ",3 Beds,2 Baths,"1,685 SqFt","9712, Preston Vineyard Drive, Frisco, Collin County, Texas, 75035, United States","(33.1356625, -96.79781555, 0.0)"
+"9571 Knight Lane, Frisco, TX 75035","
+                $625,000
+            ",4 Beds,3 Baths,"2,503 SqFt","9571, Knight Lane, Frisco, Collin County, Texas, 75035, United States","(33.19176364525341, -96.79822100128361, 0.0)"
+"4313 Coney Island Drive, Frisco, TX 75036","
+                $414,000
+            ",4 Beds,2 Baths,"1,777 SqFt",,
+"768 W Talon Drive, Frisco, TX 75033","
+                $620,000
+            ",4 Beds,4 Baths,"3,469 SqFt","768, West Talon Drive, Frisco, Denton County, Texas, 75033, United States","(33.185899454545456, -96.88463775757576, 0.0)"
+"9602 Enmore Lane, Frisco, TX 75035","
+                $525,000
+            ",4 Beds,3 Baths,"2,655 SqFt","9602, Enmore Lane, Frisco, Collin County, Texas, 75035, United States","(33.112331999999995, -96.7986659, 0.0)"
+"3312 Thistle Road, Frisco, TX 75035","
+                $820,990
+            ",5 Beds,4 Baths,"3,149 SqFt","3312, Thistle Road, Frisco, Collin County, Texas, 75035, United States","(33.105692825332255, -96.79312508912913, 0.0)"
+"2982 La Vista Lane, Frisco, TX 75033","
                 $565,000
-            ",4 Beds,4 Baths,"2,823 SqFt"
-"2236 Hague Drive, Frisco, TX 75033","
-                $925,000
-            ",5 Beds,5 Baths,"4,935 SqFt"
-"10908 Jeffreys Bay, Frisco, TX 75035","
-                $469,000
-            ",4 Beds,2 Baths,"2,111 SqFt"
-"8762 Fisher Drive, Frisco, TX 75033","
-                $624,900
-            ",4 Beds,3 Baths,"3,236 SqFt"
-"12394 Privet Lane, Frisco, TX 75035","
-                $847,000
-            ",4 Beds,5 Baths,"3,624 SqFt"
-"12210 Alexandria Drive, Frisco, TX 75035","
-                $699,000
-            ",5 Beds,4 Baths,"4,176 SqFt"
-"8060 Splitbeard Road, Frisco, TX 75035","
-                $1,350,000
-            ",5 Beds,6 Baths,"4,759 SqFt"
-"9831 Bradford Grove Drive, Frisco, TX 75035","
-                $585,000
-            ",3 Beds,2 Baths,"3,092 SqFt"
-"1430 Leg Iron Drive, Frisco, TX 75036","
-                $1,100,000
-            ",5 Beds,4 Baths,"4,507 SqFt"
-"15536 Crape Myrtle Road, Frisco, TX 75035","
-                $825,000
-            ",5 Beds,7 Baths,"3,213 SqFt"
-"16542 Moss Haven Lane, Frisco, TX 75068","
-                $599,999
-            ",4 Beds,3 Baths,"2,752 SqFt"
-"12109 Wind Surf Drive, Frisco, TX 75036","
-                $680,000
-            ",4 Beds,4 Baths,"3,550 SqFt"
-"4285 Cedar Bluff Lane, Frisco, TX 75033","
-                $1,549,900
-            ",5 Beds,7 Baths,"5,844 SqFt"
-"2294 Fox Crossing Lane, Frisco, TX 75036","
-                $575,000
-            ",3 Beds,3 Baths,"3,041 SqFt"
-"12566 Loxley Drive, Frisco, TX 75035","
-                $885,000
-            ",4 Beds,5 Baths,"3,922 SqFt"
+            ",4 Beds,3 Baths,"2,830 SqFt","2982, La Vista Lane, The Fairways at the Trails, Frisco, Denton County, Texas, 75033, United States","(33.171818, -96.8643897, 0.0)"
